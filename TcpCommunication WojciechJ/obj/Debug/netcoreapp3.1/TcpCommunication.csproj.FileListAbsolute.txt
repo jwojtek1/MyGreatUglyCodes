@@ -1,0 +1,13 @@
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.exe
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.deps.json
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.runtimeconfig.json
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.runtimeconfig.dev.json
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.dll
+C:\Users\wojci\Source\Repos\TcpCommunication\bin\Debug\netcoreapp3.1\TcpCommunication.pdb
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.csprojAssemblyReference.cache
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.AssemblyInfoInputs.cache
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.AssemblyInfo.cs
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.csproj.CoreCompileInputs.cache
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.dll
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.pdb
+C:\Users\wojci\Source\Repos\TcpCommunication\obj\Debug\netcoreapp3.1\TcpCommunication.genruntimeconfig.cache
